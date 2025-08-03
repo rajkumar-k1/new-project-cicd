@@ -1,0 +1,3 @@
+Deployment:
+  image: 10rajkumar10/my-app:rk1
+  replicas: 3
